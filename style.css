@@ -1,0 +1,29 @@
+body{
+    background-image: url(./pngtree-cool-racing-texture-runway-passion-background-image_211571\ .jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.corrida{
+    background-color: rgba(0, 0, 0, .4);
+    padding: 400px;
+    border-radius: 16px;
+}
+h1{
+    color: white;
+    top:20px;
+}
+input{
+    color:white;
+    background-color: black;
+    border-radius: 16px;
+    border:none;
+
+}
+span{
+    color: white;
+    font-size: 30px;
+}
